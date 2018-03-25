@@ -58,7 +58,7 @@ The proposed program can compute the planar target object pose in either **CPU**
 
 [![demo video](http://img.youtube.com/vi/odlP_01DD4A/0.jpg)](http://www.youtube.com/watch?v=odlP_01DD4A)
 
-For **Windows** users,  you may need to set paths to the **OpenCV install** folder and the **Eigen** folder in order to build the mex files successfully.
+For **Windows** users,  you may need to set paths to the **OpenCV install** folder and the **Eigen** folder in order to build the mex files successfully.  
 ![opencv install](http://media.ee.ntu.edu.tw/research/DPE/images/opencv_install_folder.png)
 ![opencv install](http://media.ee.ntu.edu.tw/research/DPE/images/eigen_folder.png)
 
