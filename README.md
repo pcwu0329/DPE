@@ -40,8 +40,6 @@ We have tested the program in **Ubuntu 16.04** and **Windows 10**, but it should
 >> ![cmake opencv](http://media.ee.ntu.edu.tw/research/DPE/images/cmake_opencv.png)  
 
 
-
-
 ### Installation
 ---
 Download repository:
@@ -64,7 +62,7 @@ For **Windows** users,  you may need to set paths to the **OpenCV install** fold
 ![opencv install](http://media.ee.ntu.edu.tw/research/DPE/images/opencv_install_folder.png)
 ![opencv install](http://media.ee.ntu.edu.tw/research/DPE/images/eigen_folder.png)
 
-For **Linux** users, if you see the following error messages, you may have to preload the needed libraries.
+For **Ubuntu** users, if you see the following error messages, you may have to preload the needed libraries.
 ```
 Missing symbol 'th_comment_add' required by
 '/usr/lib/x86_64-linux-gnu/libtheoraenc.so.1->/usr/lib/x86_64-linux-gnu/libavcodec-ffmpeg.so.56->/usr/local/lib/libopencv_world.so.3.2->/home/user/DPE/function/DPE_CUDA/apeCudaMex.mexa64'
@@ -89,3 +87,7 @@ export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libstdc++.so.6:/usr/lib/x86_64-linux
 ```
 Do not forget to execute `source ~/.bashrc` in the terminal to make the changes work immediately.
 If it still does not work, then you may have to update your codecs.
+```
+sudo apt-get install ubuntu-restricted-extras
+sudo apt-get install vlc
+```
