@@ -55,7 +55,7 @@ Run **DpeGui.m** in MATLAB. *It will automatically **download** associated **ima
 
 ### Program Description
 ---
-The proposed program can compute the planar target object pose in either **CPU** mode or **GPU** mode. *It will automatically **compile** associated **MEX files** if necessary.* Please take a look at the demo video below for more details.
+The proposed program can compute the planar target object pose in either **CPU** mode or **GPU** mode. *It will automatically **compile** associated **MEX files** if necessary.* Please take a look at the **youtube demo video** below for more details.
 
 [![demo video](http://img.youtube.com/vi/odlP_01DD4A/0.jpg)](http://www.youtube.com/watch?v=odlP_01DD4A)
 
