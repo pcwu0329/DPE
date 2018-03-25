@@ -87,6 +87,7 @@ To preload the needed libraries, terminate **MATLAB** and add the following cont
 export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libstdc++.so.6:/usr/lib/x86_64-linux-gnu/libprotobuf.so.9:$LD_PRELOAD
 ```
 Do not forget to execute `source ~/.bashrc` in the terminal to make the changes work immediately.
+
 If it still does not work, then you may have to update your codecs.
 ```
 sudo apt-get install ubuntu-restricted-extras
