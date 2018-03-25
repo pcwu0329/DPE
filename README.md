@@ -35,7 +35,7 @@ We have tested the program in **Ubuntu 16.04** and **Windows 10**, but it should
 
 > Note that OpenCV should be compiled with **CUDA** support.  
 > Be sure to enable **BUILD_opencv_world**.  
->> ![cmake opencv](http://media.ee.ntu.edu.tw/research/DPE/images/cmake_opencv.png)
+>> ![cmake opencv](http://media.ee.ntu.edu.tw/research/DPE/images/cmake_opencv.png)  
 >> We recommend to configure an OpenCV project with **CMake**.
 
 > *For **Windows** users, please build the **INSTALL** project especially.*
