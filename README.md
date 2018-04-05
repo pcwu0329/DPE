@@ -3,7 +3,7 @@
 
 Computer Vision and Image Understanding (CVIU), 2018
 
-![DpeGui](http://media.ee.ntu.edu.tw/research/DPE/images/DpeGui.png)
+![DpeGui](http://media.ee.ntu.edu.tw/research/DPE/images/DpeGui.jpg)
 
 ### Introduction
 ---
