@@ -3,6 +3,8 @@
 
 Computer Vision and Image Understanding (CVIU), 2018
 
+![DpeGui](http://media.ee.ntu.edu.tw/research/DPE/images/DpeGui.png)
+
 ### Introduction
 ---
 The DPE method is a planar object pose estimation algorithm using direct approach. It achieves state-of-the-art performance on three benchmark datasets. For more details and evaluation results, please check out our [project webpage](http://media.ee.ntu.edu.tw/research/DPE/) and [paper](http://media.ee.ntu.edu.tw/personal/pcwu/research/cviu2018_dpe/cviu2018_dpe.pdf).
